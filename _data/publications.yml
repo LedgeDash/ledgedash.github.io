@@ -1,0 +1,23 @@
+- title: "Doing More with Less: Orchestrating Serverless Applications without an Orchestrator"
+  authors: David H. Liu, Amit Levy, Shadi Noghabi, Sebastian Burckhardt
+  venue: "Proc. 20th Symposium on Networked Systems Design and Implementation"
+  abbr: "(NSDI '23) Boston, MA. To appear."
+  year: 2023
+- title: "How Low Can You Go? Practical cold-start performance limits in FaaS"
+  authors: Yue Tan, David H. Liu, Nanqinqin Li, Amit Levy
+  venue: "ArXiv Technical Report:2109.13319, Sept. 2021"
+  year: 2021
+  paper: https://arxiv.org/abs/2109.13319
+- title: "Pyronia: Intra-Process Access Control for IoT Applications"
+  authors: Marcela S. Melara, David H. Liu, Michael J. Freedman
+  venue: "ArXiv Technical Report:1903.01950, March 2019"
+  year: 2019
+  paper: https://arxiv.org/abs/1903.01950
+  poster: https://masomel.github.io/static/pubs/s&pDay-poster.pdf
+- title: "Sandtrap: Tracking information flows on demand with parallel permissions"
+  authors: Ali Razeen, Alvin R Lebeck, David H. Liu, Alexander Meijer, Valentin Pistol, Landon P Cox
+  venue: "Proc. 16th Annual International Conference on Mobile Systems, Applications, and Services"
+  abbr: "(MobiSys '18) Munich, Germany, June 2018"
+  year: 2018
+  paper: https://www.microsoft.com/en-us/research/uploads/prod/2018/05/sandtrap-mobisys18.pdf
+  presentation: https://www.youtube.com/watch?v=t2ZaWxXEfa8

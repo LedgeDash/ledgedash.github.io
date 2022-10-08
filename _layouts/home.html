@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <article>
+    {% if page.profile -%}
+    <div class="profile float-{%- if page.profile.align == 'left' -%}left{%- else -%}right{%- endif -%}">
+      {%- if page.profile.image %}
+        {%- assign profile_image_path = page.profile.image | prepend: 'assets/img/' -%}
+        <img src="{{ profile_image_path }}" style="float: right; margin-left: 20px; width:27%;height:27%;" >
+      {% endif -%}
+
+      {%- if page.profile.address %}
+      <div class="address">
+        {{ page.profile.address }}
+      </div>
+      {%- endif %}
+
+    </div>
+    {%- endif %}
+
+    <div class="clearfix">
+      {{ content }}
+    </div>
+  </article>
+
+
+</div>
