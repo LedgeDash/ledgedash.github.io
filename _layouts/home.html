@@ -9,7 +9,8 @@ layout: default
     <div class="profile float-{%- if page.profile.align == 'left' -%}left{%- else -%}right{%- endif -%}">
       {%- if page.profile.image %}
         {%- assign profile_image_path = page.profile.image | prepend: 'assets/img/' -%}
-        <img src="{{ profile_image_path }}" style="float: right; margin-left: 20px; width:27%;height:27%;" >
+        {%- assign profile_image_style =  page.profile.align | prepend: 'float: ' | append: '; margin-left: 20px; width:27%;height:27%'-%}
+        <img src="{{ profile_image_path }}" style="{{ profile_image_style }}" >
       {% endif -%}
 
       {%- if page.profile.address %}
