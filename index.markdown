@@ -37,10 +37,12 @@ IoT apps.
    {% if publication.paper %}\[[paper]({{ publication.paper }})\]{% endif %}
    {% if publication.presentation %}\[[presentation]({{ publication.presentation }})\]{%- endif -%}
    {% if publication.poster %}\[[poster]({{ publication.poster }})\]{% endif %}
+   {% if publication.code%}\[[code]({{ publication.code}})\]{% endif %}
    {%- else -%}
    {% if publication.paper %}\[[paper]({{ publication.paper }})\]{% endif %}
    {% if publication.presentation %}\[[presentation]({{ publication.presentation }})\]{%- endif -%}
    {% if publication.poster %}\[[poster]({{ publication.poster }})\]{% endif %}
+   {% if publication.code%}\[[code]({{ publication.code}})\]{% endif %}
    {% endif %}
 
 {% endfor %}
