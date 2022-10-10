@@ -15,7 +15,7 @@
   paper: https://arxiv.org/abs/1903.01950
   poster: https://masomel.github.io/static/pubs/s&pDay-poster.pdf
 - title: "Sandtrap: Tracking information flows on demand with parallel permissions"
-  authors: Ali Razeen, Alvin R Lebeck, David H. Liu, Alexander Meijer, Valentin Pistol, Landon P Cox
+  authors: Ali Razeen, David H. Liu, Alvin R. Lebeck, Alexander Meijer, Valentin Pistol, Landon P. Cox
   venue: "Proc. 16th Annual International Conference on Mobile Systems, Applications, and Services"
   abbr: "(MobiSys '18) Munich, Germany, June 2018"
   year: 2018
