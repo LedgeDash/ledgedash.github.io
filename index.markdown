@@ -20,10 +20,11 @@ Mathematics from Duke University.
 
 I am broadly interested in systems and security. My most recent research
 focuses on serverless computing problems such as orchestrating large-scale
-serverless applications and speeding up lightweight virtual machines. Before
-that, I worked on IFC and taint tracking, first for Android apps and later for
-IoT apps.
-
+serverless applications and speeding up lightweight virtual machines.
+Previously, I worked on IFC and taint tracking, first for Android apps and
+later for IoT apps. Even earlier I worked on Linux device drivers for storage
+servers when I occasionally debugged by looking at how the LEDs on the
+motherboard light up.
 
 # Papers
 
