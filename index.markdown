@@ -51,4 +51,4 @@ IoT apps.
 # Personal
 
 When I'm not working on a computer, I enjoy music, singing, gardening, and
-playing a few rounds of board games with friends and family.
+playing a few rounds of board games with friends and family. My [wife](https://www.smu.edu/cox/Our-People-and-Community/Faculty/Rowena-J-Gan) and I currently live in Dallas.
