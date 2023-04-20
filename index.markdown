@@ -10,7 +10,7 @@ profile:
 
 <!-- ![image](assets/peacock.jpg){: style="float: right"; height="25%" width="25%"} -->
 
-\[[CV](https://raw.githubusercontent.com/LedgeDash/ledgedash.github.io/main/assets/files/cv.pdf) \| [GitHub](https://github.com/LedgeDash) \| [Google Scholar](https://scholar.google.com/citations?user=Mg4erJ8AAAAJ&hl=en)\]
+\[[CV](https://raw.githubusercontent.com/LedgeDash/ledgedash.github.io/main/assets/files/cv-davidliu.pdf) \| [GitHub](https://github.com/LedgeDash) \| [Google Scholar](https://scholar.google.com/citations?user=Mg4erJ8AAAAJ&hl=en)\]
 
 I am a PhD student at Princeton University in Computer Science, advised by
 [Amit Levy](https://www.amitlevy.com/). I am a member of the [Princeton S\*
