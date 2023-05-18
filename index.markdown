@@ -18,8 +18,8 @@ where I was a member of the
 Previously, I received my B.S.E. in Electrical and Computer Engineering and a minor in
 Mathematics from Duke University.
 
-I am broadly interested in systems. My most recent research
-focuses on serverless computing problems such as orchestrating large-scale
+I am broadly interested in systems, with about 8 years of experience in software development.
+My most recent research focuses on serverless computing problems such as orchestrating large-scale
 serverless applications and speeding up lightweight virtual machines.
 Previously, I worked on information flow control, first for the Android operating system and
 later for IoT applications. Even earlier I worked on Linux kernel drivers for storage
