@@ -37,15 +37,16 @@ motherboard lit up.
    {% if publication.abbr %} {{ publication.abbr }}  
    {% if publication.paper %}\[[paper]({{ publication.paper }})\]{% endif %}
    {% if publication.presentation %}\[[presentation]({{ publication.presentation }})\]{%- endif -%}
-   {% if publication.slides %}\[[slides]({{ publication.slides }})\]{% endif %}
    {% if publication.poster %}\[[poster]({{ publication.poster }})\]{% endif %}
    {% if publication.code%}\[[code]({{ publication.code}})\]{% endif %}
    {% if publication.video%}\[[video]({{ publication.video}})\]{% endif %}
    {%- else -%}
    {% if publication.paper %}\[[paper]({{ publication.paper }})\]{% endif %}
    {% if publication.presentation %}\[[presentation]({{ publication.presentation }})\]{%- endif -%}
+   {% if publication.slides %}\[[slides]({{ publication.slides }})\]{% endif %}
    {% if publication.poster %}\[[poster]({{ publication.poster }})\]{% endif %}
    {% if publication.code%}\[[code]({{ publication.code}})\]{% endif %}
+   {% if publication.video%}\[[video]({{ publication.video}})\]{% endif %}
    {% endif %}
 
 {% endfor %}
