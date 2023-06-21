@@ -10,7 +10,7 @@ profile:
 
 <!-- ![image](assets/peacock.jpg){: style="float: right"; height="25%" width="25%"} -->
 
-\[[CV](https://raw.githubusercontent.com/LedgeDash/ledgedash.github.io/main/assets/files/cv-davidliu.pdf) \| [GitHub](https://github.com/LedgeDash) \| [Google Scholar](https://scholar.google.com/citations?user=Mg4erJ8AAAAJ&hl=en)\]
+\[[CV](https://raw.githubusercontent.com/LedgeDash/ledgedash.github.io/main/assets/files/cv-davidliu.pdf) \| [LinkedIn](https://www.linkedin.com/in/david-hao-liu-160307/) \| [GitHub](https://github.com/LedgeDash) \| [Google Scholar](https://scholar.google.com/citations?user=Mg4erJ8AAAAJ&hl=en)\]
 
 I recently completed my Ph.D. in Computer Science at Princeton Univerisity
 where I was a member of the
@@ -37,8 +37,10 @@ motherboard lit up.
    {% if publication.abbr %} {{ publication.abbr }}  
    {% if publication.paper %}\[[paper]({{ publication.paper }})\]{% endif %}
    {% if publication.presentation %}\[[presentation]({{ publication.presentation }})\]{%- endif -%}
+   {% if publication.slides %}\[[slides]({{ publication.slides }})\]{% endif %}
    {% if publication.poster %}\[[poster]({{ publication.poster }})\]{% endif %}
    {% if publication.code%}\[[code]({{ publication.code}})\]{% endif %}
+   {% if publication.video%}\[[video]({{ publication.video}})\]{% endif %}
    {%- else -%}
    {% if publication.paper %}\[[paper]({{ publication.paper }})\]{% endif %}
    {% if publication.presentation %}\[[presentation]({{ publication.presentation }})\]{%- endif -%}

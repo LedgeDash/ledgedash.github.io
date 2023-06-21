@@ -4,8 +4,9 @@
   abbr: "(NSDI '23) Boston, MA. To appear."
   year: 2023
   paper: https://www.usenix.org/system/files/nsdi23-liu-david.pdf
-  presentation: https://www.usenix.org/system/files/nsdi23_slides_liu_0.pdf
+  slides: https://www.usenix.org/system/files/nsdi23_slides_liu_0.pdf
   code: https://github.com/LedgeDash/unum
+  video: https://www.youtube.com/watch?v=FdLxvGEcjxM
 - title: "How Low Can You Go? Practical cold-start performance limits in FaaS"
   authors: Yue Tan, David H. Liu, Nanqinqin Li, Amit Levy
   venue: "ArXiv Technical Report:2109.13319, Sept. 2021"
