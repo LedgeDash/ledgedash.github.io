@@ -10,21 +10,21 @@ profile:
 
 <!-- ![image](assets/peacock.jpg){: style="float: right"; height="25%" width="25%"} -->
 
-\[[CV](https://raw.githubusercontent.com/LedgeDash/ledgedash.github.io/main/assets/files/cv.pdf) \| [GitHub](https://github.com/LedgeDash) \| [Google Scholar](https://scholar.google.com/citations?user=Mg4erJ8AAAAJ&hl=en)\]
+\[[CV](https://raw.githubusercontent.com/LedgeDash/ledgedash.github.io/main/assets/files/cv-davidliu.pdf) \| [GitHub](https://github.com/LedgeDash) \| [Google Scholar](https://scholar.google.com/citations?user=Mg4erJ8AAAAJ&hl=en)\]
 
-I am a PhD student at Princeton University in Computer Science, advised by
-[Amit Levy](https://www.amitlevy.com/). I am a member of the [Princeton S\*
-Network Systems (SNS) group](https://sns.cs.princeton.edu/). Previously, I
-received a B.S. in Electrical and Computer Engineering and a minor in
+I recently completed my Ph.D. in Computer Science at Princeton Univerisity
+where I was a member of the
+[Princeton Network Systems (SNS) group](https://sns.cs.princeton.edu/).
+Previously, I received my B.S.E. in Electrical and Computer Engineering and a minor in
 Mathematics from Duke University.
 
-I am broadly interested in systems and security. My most recent research
-focuses on serverless computing problems such as orchestrating large-scale
+I am broadly interested in systems, with about 8 years of experience in software development.
+My most recent research focuses on serverless computing problems such as orchestrating large-scale
 serverless applications and speeding up lightweight virtual machines.
-Previously, I worked on IFC and taint tracking, first for Android apps and
-later for IoT apps. Even earlier I worked on Linux device drivers for storage
+Previously, I worked on information flow control, first for the Android operating system and
+later for IoT applications. Even earlier I worked on Linux kernel drivers for storage
 servers when I occasionally debugged by looking at how the LEDs on the
-motherboard light up.
+motherboard lit up.
 
 # Papers
 
