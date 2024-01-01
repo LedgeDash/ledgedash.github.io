@@ -14,7 +14,7 @@ profile:
 
 I recently completed my Ph.D. in Computer Science at Princeton Univerisity
 where I was a member of the
-[Princeton Network Systems (SNS) group](https://sns.cs.princeton.edu/).
+[Princeton Network Systems (SNS) group](https://sns.cs.princeton.edu/) and advised by [Amit Levy](https://www.amitlevy.com/).
 Previously, I received my B.S.E. in Electrical and Computer Engineering and a minor in
 Mathematics from Duke University.
 
