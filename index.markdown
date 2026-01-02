@@ -12,19 +12,35 @@ profile:
 
 \[[CV](https://raw.githubusercontent.com/LedgeDash/ledgedash.github.io/main/assets/files/cv-davidliu.pdf) \| [LinkedIn](https://www.linkedin.com/in/david-hao-liu-160307/) \| [GitHub](https://github.com/LedgeDash) \| [Google Scholar](https://scholar.google.com/citations?user=Mg4erJ8AAAAJ&hl=en)\]
 
-I recently completed my Ph.D. in Computer Science at Princeton Univerisity
-where I was a member of the
-[Princeton Network Systems (SNS) group](https://sns.cs.princeton.edu/) and advised by [Amit Levy](https://www.amitlevy.com/).
-Previously, I received my B.S.E. in Electrical and Computer Engineering and a minor in
-Mathematics from Duke University.
-
-I am broadly interested in systems, with about 8 years of experience in software development.
-My most recent research focuses on serverless computing problems such as orchestrating large-scale
+I'm broadly interested in systems. My graduate school research focused on serverless computing problems such as orchestrating large-scale
 serverless applications and speeding up lightweight virtual machines.
 Previously, I worked on information flow control, first for the Android operating system and
 later for IoT applications. Even earlier I worked on Linux kernel drivers for storage
 servers when I occasionally debugged by looking at how the LEDs on the
 motherboard lit up.
+
+# Work Experience
+
+Google, Senior Software Engineer, since 2024.1
+
+* Google Deepmind, GenAi Systems
+* TPU Performance
+  * XLA compiler auto-optimization
+  * Systems for ML performance optimization
+  * LLM post training
+
+Nimble Storage, Member of Technical Staff, 2015 - 2017
+* Linux kernel driver developer for storage servers
+
+# Education
+
+Princeton University, 2017 - 2023
+* Ph.D. in Computer Science
+* Dissertation: [A Serverless Architecture for Application-Level Orchestration](https://dataspace.princeton.edu/handle/88435/dsp017w62fc456)
+* Advisor: [Prof. Amit Levy](https://www.amitlevy.com/)
+
+Duke University, 2011 - 2015
+* B.S.E in Electrical and Computer Engineering, minor in mathematics
 
 # Papers
 
@@ -49,8 +65,3 @@ motherboard lit up.
 
 {% endfor %}
 
-
-# Personal
-
-When I'm not working on a computer, I enjoy music, singing, gardening, and
-playing a few rounds of board games with friends and family. My [wife](https://www.smu.edu/cox/Our-People-and-Community/Faculty/Rowena-J-Gan) and I currently live in Dallas.
