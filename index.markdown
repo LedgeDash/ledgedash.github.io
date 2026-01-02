@@ -21,25 +21,25 @@ motherboard lit up.
 
 # Work Experience
 
-Google, Senior Software Engineer, since 2024.1
+**Google**, Senior Software Engineer, since 2024.1
 
-* Google Deepmind, GenAi Systems
-* TPU Performance
+* _GenAI Systems, Google Deepmind_ (2025-)
+* _TPU Performance_ (2024-2025)
   * XLA compiler auto-optimization
   * Systems for ML performance optimization
   * LLM post training
 
-Nimble Storage, Member of Technical Staff, 2015 - 2017
+**Nimble Storage**, Member of Technical Staff, 2015 - 2017
 * Linux kernel driver developer for storage servers
 
 # Education
 
-Princeton University, 2017 - 2023
+**Princeton University**, 2017 - 2023
 * Ph.D. in Computer Science
 * Dissertation: [A Serverless Architecture for Application-Level Orchestration](https://dataspace.princeton.edu/handle/88435/dsp017w62fc456)
 * Advisor: [Prof. Amit Levy](https://www.amitlevy.com/)
 
-Duke University, 2011 - 2015
+**Duke University**, 2011 - 2015
 * B.S.E in Electrical and Computer Engineering, minor in mathematics
 
 # Papers
