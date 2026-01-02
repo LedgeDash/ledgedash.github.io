@@ -17,7 +17,7 @@ I'm a software engineer at Google working on systems for LLM performance tuning 
 I'm broadly interested in systems. My graduate school research focused on serverless computing problems such as orchestrating large-scale
 serverless applications and speeding up lightweight virtual machines.
 Previously, I worked on information flow control, first for the Android and
-later for IoT applications. Even earlier I worked on Linux kernel drivers for storage
+later for IoT. Even earlier I worked on Linux kernel drivers for storage
 servers when I occasionally debugged by looking at how the LEDs on the
 motherboard lit up.
 
