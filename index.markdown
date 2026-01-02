@@ -23,12 +23,12 @@ motherboard lit up.
 
 # Work Experience
 
-**Google**, Senior Software Engineer, since 2024.1
+**Google**, Senior Software Engineer
 
 * _GenAI Systems, Google Deepmind_ (2025-)
 * _TPU Performance_ (2024-2025)
-  * XLA compiler auto-optimization
-  * Systems for ML performance optimization
+  * Systems for fleet-scale ML performance tuning and eval
+  * XLA compiler auto-optimizations
   * LLM post training
 
 **Nimble Storage**, Member of Technical Staff, 2015 - 2017
