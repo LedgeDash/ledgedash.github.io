@@ -12,7 +12,7 @@ profile:
 
 \[[CV](https://raw.githubusercontent.com/LedgeDash/ledgedash.github.io/main/assets/files/cv-davidliu.pdf) \| [LinkedIn](https://www.linkedin.com/in/david-hao-liu-160307/) \| [GitHub](https://github.com/LedgeDash) \| [Google Scholar](https://scholar.google.com/citations?user=Mg4erJ8AAAAJ&hl=en)\]
 
-I'm a software engineer at Google working on systems for LLM performance tuning and eval.
+I'm a software engineer at Google working on systems for LLM performance tuning and eval. I also contribute to Gemini post training and XLA compiler optimizations.
 
 I'm broadly interested in systems. My graduate school research focused on serverless computing problems such as orchestrating large-scale
 serverless applications and speeding up lightweight virtual machines.
