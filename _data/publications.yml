@@ -1,3 +1,9 @@
+- title: "CATWILD: Compiler Autotuning for TPU workloads in the Wild"
+  authors: Ignacio Cano, Yu Wang, Mike Burrows, Ziqiang Feng, Matheus Camargo, Chao Wang, David Liu, Tengyu Sun, Alexander Wertheim, Arissa Wongpanich, Christof Angermueller, Hyojun Kim, Wenqi Cao, Aleksey Orekhov, Amit Sabne, Emma Sevastian, Mehrdad Khani, Karthik Murthy, Berkin Ilbeyi, Subhankar Shah, Ryan Lefever, Arjun Khare, Ankit Sinha, Peter Ma, Matt Bierbaum, Jeremiah Wilke, Emily Donahue, Sami Abu-El-Haija, Nikhil Sarda, Vineetha Govindaraj, Shobha Vasudevan, Kirill Gugaev, Idan Nachman, Jie Sun, Jose Baiocchi Paredes, Samrat Ghosh, Domagoj Babic, Zongwei Zhou, Naveen Kumar, Phitchaya Phothilimthana 
+  venue: "Ninth Annual Conference on Machine Learning and Systems"
+  abbr: "(MLSys '26) Bellevue, WA, May 2026"
+  year: 2026
+  paper: https://www.microsoft.com/en-us/research/uploads/prod/2018/05/sandtrap-mobisys18.pdf
 - title: "Doing More with Less: Orchestrating Serverless Applications without an Orchestrator"
   authors: David H. Liu, Amit Levy, Shadi Noghabi, Sebastian Burckhardt
   venue: "Proc. 20th Symposium on Networked Systems Design and Implementation"
